@@ -1,0 +1,10 @@
+hola mundo
+este es un archivo de prueba para el programa de búsqueda
+queremos encontrar cuántas veces aparece la palabra hola
+y también ver otras cadenas como prueba y archivo
+hola de nuevo, porque hola debe aparecer varias veces
+en este archivo podemos tener líneas con palabras repetidas
+por ejemplo, prueba, prueba, prueba y más prueba
+finalmente, la última línea contiene hola otra vez
+este archivo tiene suficientes datos para probar búsquedas
+además contiene números 12345 y símbolos !@# para probar
